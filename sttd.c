@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-void main()
+int main()
 {
 int a,b,b1,b2,b3,c,c1,c2,c3,e;
 b=b1=b2=b3=c=c1=c2=c3=0;
